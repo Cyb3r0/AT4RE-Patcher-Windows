@@ -1,2 +1,2 @@
-# AT4RE-Patcher
-AT4RE Patcher - Patch maker for binary files
+# AT4RE-Patcher for Windows
+AT4RE Patcher - Patch maker for Windows binary files
